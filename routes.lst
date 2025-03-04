@@ -166,3 +166,4 @@ nftset=/xv-ru.com/4#inet#fw4#vpn_domains
 nftset=/xvideos-cdn.com/4#inet#fw4#vpn_domains
 nftset=/xvideos.com/4#inet#fw4#vpn_domains
 nftset=/yummyani.me/4#inet#fw4#vpn_domains
+nftset=/yandexwebcache.org/4#inet#fw4#vpn_domains
